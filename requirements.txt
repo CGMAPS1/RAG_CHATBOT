@@ -1,0 +1,37 @@
+openai 
+opencv-python
+langchain
+langchain-community
+langchain-openai
+langchain-core
+langchain-text-splitters
+langchain-huggingface
+langchain-community
+langchain-core
+langchain-text-splitters
+langgraph
+# Anthropic Integration
+langchain-anthropic
+
+# Google Gemini (PaLM) Integration
+langchain-google-genai
+google-generativeai
+
+# Hugging Face Integration
+langchain-huggingface
+transformers
+huggingface-hub
+
+# Environment Variable Management
+python-dotenv
+
+# Machine Learning Utilities
+numpy
+scikit-learn 
+sentence-transformers
+
+chainlit 
+streamlit
+
+docx 
+PyPDF2
